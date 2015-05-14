@@ -1,4 +1,4 @@
-NTY-styled force layout study
+New York Times-way force layout study
 ======================
 It's based on Jim Vallandingham's study with @ducky427 customise.
 pure JavaScript and not CoffeeScript version.
